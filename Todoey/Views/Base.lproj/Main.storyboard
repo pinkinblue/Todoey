@@ -25,6 +25,7 @@
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
+                                <accessibility key="accessibilityConfiguration" identifier="ToDoItemCell"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -65,7 +66,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="msA-Gl-aLy" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-500" y="116"/>
+            <point key="canvasLocation" x="-498" y="116"/>
         </scene>
     </scenes>
 </document>
